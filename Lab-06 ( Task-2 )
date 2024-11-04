@@ -1,5 +1,5 @@
-\\Write a program to print a pyramid pattern with numbers where each row has incrementally increasing numbers.
-\\ using nested for loop
+//Write a program to print a pyramid pattern with numbers where each row has incrementally increasing numbers.
+// using nested for loop
 
 #include <iostream>
 using namespace std;
@@ -18,7 +18,7 @@ int main() {
     return 0;
 }
 
-\\ using Nested while loop
+// using Nested while loop
 
 #include <iostream>
 using namespace std;
