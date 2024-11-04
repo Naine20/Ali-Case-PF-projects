@@ -1,4 +1,5 @@
-// Write a program in C++ to print a pattern based on a user-input number of rows. The pattern should display increasing rows where each row i contains the integer i repeated i times.
+/* Write a program in C++ to print a pattern based on a user-input number of rows. 
+The pattern should display increasing rows where each row i contains the integer i repeated i times. */
 // using forloop
 
 int main() {
