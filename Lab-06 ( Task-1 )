@@ -1,5 +1,5 @@
-\\Task 1: Write a C++ program that will print the following pattern.
-\\ Nested forloop
+//Task 1: Write a C++ program that will print the following pattern.
+// Nested forloop
 
 #include<iostream>
 using namespace std;
@@ -18,7 +18,7 @@ int main()
     return 0;
 }
 
-\\Using nested while loop
+//Using nested while loop
 
 #include <iostream>
 using namespace std;
